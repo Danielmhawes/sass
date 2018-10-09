@@ -14,6 +14,8 @@ Within your project folder, using terminal, launch the command 'sass --watch scs
 
 and start working on the project.
 
+live link-- https://danielmhawes.github.io/sass/index.html
+
 
 
 
