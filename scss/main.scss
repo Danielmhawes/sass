@@ -1,13 +1,5 @@
-// this is  a multi line comments
 
-// variables
+/*imports*/
 
-$primary-color: bada55;
-$font-size1: 3.125em;
-$font-size2: 2.125em;
-$text-color: #fof;
-
-// base styles
-body{
-    background-color
-}
+@import 'partials/variables';
+@import 'partials/base';
